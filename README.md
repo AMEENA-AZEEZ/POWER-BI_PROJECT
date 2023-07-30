@@ -38,7 +38,7 @@ The "SLICERS & CHARTS" page includes the following visualizations:
         Line and Clustered Column Chart:
             Shows the sales trend over the given period.
 
-#### 2. TABLES
+###### 2. TABLES
 
 The "TABLES" page presents tabular visualizations of all the charts used on the "SLICERS & CHARTS" page. This provides a detailed breakdown of the data and allows users to easily access specific information.
 
