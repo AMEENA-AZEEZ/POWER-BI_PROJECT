@@ -1,10 +1,10 @@
 ## Global Superstore Sales Analysis
 
 This repository contains a Power BI dashboard that provides valuable insights into the sales performance of the Global Superstore.
-#Key Features
+#### Key Features
 
 The Power BI dashboard consists of two pages:
-#### 1. SLICERS & CHARTS
+###### 1. SLICERS & CHARTS
 
 The "SLICERS & CHARTS" page includes the following visualizations:
 
